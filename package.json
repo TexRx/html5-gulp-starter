@@ -22,7 +22,8 @@
     "gulp-imagemin": "~0.1.5",
     "gulp-minify-css": "~0.3.0",
     "dalekjs": "0.0.8",
-    "dalek-browser-chrome": "0.0.10"
+    "dalek-browser-chrome": "0.0.10",
+    "dalek-reporter-html": "0.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
