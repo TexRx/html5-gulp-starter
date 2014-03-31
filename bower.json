@@ -1,0 +1,19 @@
+{
+  "name": "fluid-images",
+  "version": "0.0.0",
+  "authors": [
+    "Chris Wigley <cwigley@onenorth.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jQuery-Slideshow": "https://github.com/i-like-robots/jQuery-Slideshow.git#~1.7.0"
+  }
+}
